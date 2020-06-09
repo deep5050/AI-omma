@@ -7,7 +7,7 @@
   </div>
 
 ## contributing guidelines
-1. If you are submiting individual algorithms, looks for the category in which it belongs. If you can not find a suitable one, you are free to create a new directory and place your Notebook or python/R scripts there.
+1. If you are submiting individual algorithms, look for the category in which it belongs. If you can not find a suitable one, you are free to create a new directory and place your Notebook or python/R scripts there.
 2. If your codes are already on gitHub, simply submit your repo's README. Just make sure you have a link to your repository within the first 20 lines of the file. Place the file under respective direcory. Rename the README to `username-algorithname.md` format.
 3. In case of a project with a name, simply make a directory under respective category and plcae the README there. Rename the file to `user-projectname.md`
 
